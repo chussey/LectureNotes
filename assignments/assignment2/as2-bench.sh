@@ -24,7 +24,7 @@
 
 # This is the benchmark script to run for assignment1 of CS7NS1/CS4400
 
-JOHNBIN=~/code/JohnTheRipper/run/john
+JOHNBIN=~/ubuntu/Home/code/JohnTheRipper/run/john
 CURL=`which curl`
 CURLPARMS="-s"
 OUTPUT="as2-output.bench"
